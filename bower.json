@@ -1,0 +1,9 @@
+{
+  "name": "fido",
+  "version": "0.0.0",
+  
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "2.2.4"
+  }
+}
